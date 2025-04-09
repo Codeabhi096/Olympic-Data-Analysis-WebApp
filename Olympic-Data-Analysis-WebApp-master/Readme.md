@@ -71,8 +71,7 @@ This section provides an athlete-wise analysis of the Olympics.
 4. The web app will open in the browser
 
 # About me
-I am Abhishek, and currently, I am pursuing B.tech from Chandigarh Engineering college (landran). Talking about my previous educational background.
-
+I am Abhishek, and currently, I am pursuing B.tech from Chandigarh Engineering college (landran). 
 - [Abhishek Kumar](https://www.linkedin.com/in/abhishekbhardwaj01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # Feedback
