@@ -71,9 +71,9 @@ This section provides an athlete-wise analysis of the Olympics.
 4. The web app will open in the browser
 
 # About me
-I am Abhishek, and currently, I am pursuing B.tech from Chandigarh Engineering college (landran), Bhubaneswar. Talking about my previous educational background.
+I am Abhishek, and currently, I am pursuing B.tech from Chandigarh Engineering college (landran). Talking about my previous educational background.
 
 - [Abhishek Kumar](https://www.linkedin.com/in/abhishekbhardwaj01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # Feedback
-If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mailto:mohitur669@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohitur02).
+If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mail: mr.abhi7208@gmail.com)
